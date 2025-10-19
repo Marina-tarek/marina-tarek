@@ -12,7 +12,7 @@
 
 ## 🚀 About Me  
 - 🌱 Currently learning *Front-end Development*  
-- 💻 Skilled in *HTML, CSS, JavaScript*  
+- 💻 Skilled in *HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, JQuery, React, Next.js, Node JS*  
 - 🎨 Passionate about *UI/UX Design*  
 - ⚡ Always exploring *new technologies*  
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/marina-tarek-83a5a7320/)  
